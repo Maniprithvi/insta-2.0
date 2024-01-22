@@ -1,7 +1,2 @@
-# Fullstack Instagram Clone Tutorial
-
-### Built With React, Firebase && Chakra UI
-
-# [Tutorial](https://youtu.be/bQtAg7AFFrY)
-
-![Screenshot of App](https://i.ibb.co/PjkYLCk/Group-34.png)
+its a fullstack React social media app 
+built with React vite  for development firebase used to authendications and storages
