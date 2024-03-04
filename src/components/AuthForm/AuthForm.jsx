@@ -38,6 +38,11 @@ const AuthForm = () => {
 					</Box>
 				</Flex>
 			</Box>
+			<div>
+		     experience the app with this createncials
+			<h2>email:mani@gmail.com</h2>
+		         <h2>password:mani1234</h2>
+				</div>
 		</>
 	);
 };
